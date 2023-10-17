@@ -52,4 +52,34 @@
       "description": "O Santander tem soluções de crédito sob medida pra você. Confira!"
     }
   ]
+  {
+  "id": 5338,
+  "name": "erick afonso",
+  "account": {
+    "id": 5670,
+    "number": "11111-45",
+    "agency": "00001-0",
+    "balance": 0,
+    "limit": 0
+  },
+  "card": {
+    "id": 5183,
+    "number": "13412311121994",
+    "limit": 0
+  },
+  "features": [
+    {
+      "id": 1621,
+      "icon": "string",
+      "description": "string"
+    }
+  ],
+  "news": [
+    {
+      "id": 9795,
+      "icon": "string",
+      "description": "string"
+    }
+  ]
+
 }
